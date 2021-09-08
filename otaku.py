@@ -1,5 +1,4 @@
 import os
-from pprint import pprint
 import re  # regex //
 import requests
 from bs4 import BeautifulSoup as bs
